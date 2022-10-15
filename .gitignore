@@ -1,2 +1,5 @@
 *.data
 *.csv
+*.dot
+*.png
+.DS_Store
